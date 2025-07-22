@@ -1,5 +1,4 @@
 {
-  
   "expo": {
     "name": "MBB",
     "slug": "MBB",
@@ -8,7 +7,14 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-      
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3aec5b42-44e9-4ba2-b341-8060ec112895"
+      }
+    },
+    "android": {
+      "package": "com.zack46.MBB"
     }
   }
 }
